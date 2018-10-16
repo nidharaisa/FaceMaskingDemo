@@ -1,5 +1,5 @@
 # FaceMaskingDemo
-Video chat while their faces are masked
+Video chat while users faces are masked
 
 # Getting Started
 1. Run index.html, an automated roomID key will bw generated
