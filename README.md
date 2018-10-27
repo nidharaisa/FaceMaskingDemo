@@ -2,7 +2,7 @@
 Video chat while users faces are masked
 
 # Getting Started
-1. Run index.html, an automated roomID key will bw generated
+1. Run index.html, an automated roomID key will be generated
 2. Share the link with other peer
 
 # Scripts
